@@ -1,0 +1,9 @@
+numpy
+nltk
+scikit-learn
+tensorflow
+tensorflow-privacy
+pennylane
+adversarial-robustness-toolbox
+openai
+asyncio
